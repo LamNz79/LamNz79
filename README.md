@@ -14,7 +14,7 @@
 ### 🔗 **Find me online**
 - 💼 All of my projects are available on my GitHub: [https://github.com/LamNz79](https://github.com/LamNz79)
 - 📫 Reach me at: **lamworkspace74@gmail.com**
-- ⚡ Fun Fact: I’m an avid sports enthusiast, especially interested in [insert sport here].
+- ⚡ Fun Fact: I’m an avid sports enthusiast, especially interested in basketball.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
