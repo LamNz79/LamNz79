@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pham Minh Lam</h1>
 <h3 align="center">I'm a dedicated software developer with a passion for crafting scalable and secure applications. My expertise lies in software development, system architecture, and programming concepts. I prioritize clear, concise, and technically accurate solutions, ensuring that each project aligns with best practices and scalability requirements.</h3>
 
-- 🔭 I’m currently working on [Education Management Platform (In Development)](Private – Internal Development)
+- 🔭 I’m currently working on Education Management Platform (In Development) Private – Internal Development
 
 - 👨‍💻 All of my projects are available at [https://github.com/LamNz79](https://github.com/LamNz79)
 
