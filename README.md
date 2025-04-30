@@ -2,7 +2,7 @@
 <h3 align="center">I'm a dedicated software developer with a passion for creating scalable, secure, and high-performance applications. My expertise spans software development, system architecture, and implementing best programming practices. I prioritize clear, concise, and technically accurate solutions, ensuring every project adheres to best practices and scalability requirements.</h3>
 
 ### 🌱 **Current Work**
-- 🔭 **Role**: Front-End Developer (Managing a team of 17 interns in front-end development)
+- 🔭 **Role**: Front-End Developer
 - 🛠️ **Main Responsibilities**:
   - **Project Management**: I oversee the progress of 4-5 ongoing Education Management Platform projects (Private – Internal Development).
   - **Intern Management**: I lead a team of 17 interns, splitting tasks, reviewing code, conducting tests, and ensuring code quality and documentation.
