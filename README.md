@@ -18,8 +18,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lâm-phạm-618946273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lâm-phạm-618946273" height="30" width="40" /></a>
-<a href="https://instagram.com/1.am_farming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1.am_farming" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lâm-phạm-618946273" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" alt="lâm-phạm-618946273" height="30" width="40" />
+</a>
+<a href="https://instagram.com/1.am_farming" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" alt="1.am_farming" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages & Tools:</h3>
