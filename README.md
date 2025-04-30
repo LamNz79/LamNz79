@@ -40,4 +40,4 @@ I'm a dedicated software developer with a passion for crafting scalable and secu
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/LamNz79/aq-edu-coe" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LamNz79&repo=aq-edu-coe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/LamNz79/aq-edu-stm" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LamNz79&repo=aq-edu-stm&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/LamNz79/aq-edu-verification" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LamNz79&repo=aq-edu-verification&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
