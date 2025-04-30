@@ -1,19 +1,60 @@
 <h1 align="center">Hi 👋, I'm Pham Minh Lam</h1>
-<h3 align="center">I'm a dedicated software developer with a passion for crafting scalable and secure applications. My expertise lies in software development, system architecture, and programming concepts. I prioritize clear, concise, and technically accurate solutions, ensuring that each project aligns with best practices and scalability requirements.</h3>
+<h3 align="center">I'm a dedicated software developer with a passion for creating scalable, secure, and high-performance applications. My expertise spans software development, system architecture, and implementing best programming practices. I prioritize clear, concise, and technically accurate solutions, ensuring every project adheres to best practices and scalability requirements.</h3>
 
-- 🔭 I’m currently working on Education Management Platform (In Development) Private – Internal Development
+### 🌱 **Current Work**
+- 🔭 **Role**: Front-End Developer (Managing a team of 17 interns in front-end development)
+- 🛠️ **Main Responsibilities**:
+  - **Project Management**: I oversee the progress of 4-5 ongoing Education Management Platform projects (Private – Internal Development).
+  - **Intern Management**: I lead a team of 17 interns, splitting tasks, reviewing code, conducting tests, and ensuring code quality and documentation.
+  - **Technical Focus**: Currently, I'm working on improving front-end architecture and ensuring seamless user experiences.
+  
+- 🔄 **Previous Role**: Back-End Developer Intern — Focused on building scalable server-side logic, databases, and APIs.
+- 🚀 **Future Goal** (Next 2-3 months): Transitioning into a **Full-Stack Developer** role. I am actively gaining experience with both front-end and back-end technologies to bridge the gap and create fully integrated solutions.
 
-- 👨‍💻 All of my projects are available at [https://github.com/LamNz79](https://github.com/LamNz79)
-
-- 📫 How to reach me **lamworkspace74@gmail.com**
-
-- ⚡ Fun fact **I like sports**
+### 🔗 **Find me online**
+- 💼 All of my projects are available on my GitHub: [https://github.com/LamNz79](https://github.com/LamNz79)
+- 📫 Reach me at: **lamworkspace74@gmail.com**
+- ⚡ Fun Fact: I’m an avid sports enthusiast, especially interested in [insert sport here].
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <!-- Add social media links here, like LinkedIn or Twitter -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages & Tools:</h3>
+<p align="left"> 
+  <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a> 
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+  </a> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  </a> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a> 
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lamnz79&show_icons=true&locale=en&layout=compact" alt="lamnz79" /></p>
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lamnz79&show_icons=true&locale=en" alt="lamnz79" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lamnz79&show_icons=true&locale=en&layout=compact" alt="lamnz79" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lamnz79&" alt="lamnz79" />
+</p>
