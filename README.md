@@ -10,7 +10,7 @@ I'm a dedicated software developer with a passion for crafting scalable and secu
 * 🚀  I'm currently working on Education Management Platform (In Development) Private – Internal Development
 * 🧠  I'm learning React, Manine Framework, transitioning to Full-Stack with ASP.NET (backend) and MySQL (database).
 * 🤝  I'm open to collaborating on real-world software engineering projects that emphasize clean architecture, scalable systems, and secure development practices. Whether it's building backend services, improving developer workflows, or contributing to modern frontend interfaces, I'm eager to expand my experience and contribute to impactful solutions. Open to freelance, open-source, or part-time opportunities that align with growth and learning.
-### 🌱 **Current Work**
+## 🌱 **Current Work**
 
 - 🔭 **Role**: Front-End Developer (Leading a team of 17 interns in front-end development)
 
