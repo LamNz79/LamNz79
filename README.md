@@ -1,24 +1,26 @@
-# 💫 About Me:
-# Hi, I'm Pham Minh Lam 👋<br>### Fullstack Developer | React • TypeScript • .NET<br><br>I am a software engineer based in Ho Chi Minh City with a focus on building scalable web applications and high-performance frontend systems. Currently, I'm working on accreditation and education management systems, helping universities streamline their workflows.<br><br>- 🌍 Based in **Ho Chi Minh City, Vietnam**<br>- 🎓 Bachelor of Software Engineering from **Van Lang University**<br>- ✉️ Reach me at: **lamworkspace74@gmail.com**<br>- 🌐 Portfolio: [engineering-systems-portfolio](https://github.com/LamNz79)
+# Pham Minh Lam
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/minhlampham/) 
-
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=LamNz79&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=LamNz79&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=LamNz79&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LamNz79&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Fullstack Developer** specializing in high-performance web systems and the .NET ecosystem. 
+[cite_start]Currently optimizing accreditation workflows and building scalable UI frameworks at **AQ Tech**[cite: 4, 9].
 
 ---
-[![](https://komarev.com/ghpvc/?username=LamNz79&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 01 // Expertise
+- [cite_start]**Frontend Core:** React, TypeScript, Zustand, and TanStack Store[cite: 8].
+- [cite_start]**Backend Systems:** C#/.NET 9 and SQL Server architecture[cite: 8, 17].
+- [cite_start]**Focus:** Performance optimization (specifically table rendering and data pipelines)[cite: 11, 14].
+
+### 02 // Impact
+- [cite_start]**Scale:** Engineered systems serving 500+ concurrent academic users across multiple universities.
+- [cite_start]**Performance:** Reduced report generation time by 50% through configurable dashboard logic[cite: 10].
+- [cite_start]**Standardization:** Shipped a shared framework of 60+ UI components to unify multi-repo development[cite: 13].
+
+### 03 // Current Stack & Setup
+- **OS:** Fedora (KDE Plasma)
+- **Editor:** JetBrains & VS Code (Vesper + Mono Lisa)
+- [cite_start]**Languages:** English (Working Proficiency), Japanese (JLPT N3 in progress)[cite: 30].
+
+---
+
+### Connect
+[LinkedIn](https://linkedin.com/in/minhlampham) / [Portfolio](https://github.com/LamNz79) / [Email](mailto:lamworkspace74@gmail.com)
