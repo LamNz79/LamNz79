@@ -18,7 +18,7 @@
 ### 03 // Current Stack & Setup
 - **OS:** Fedora (KDE Plasma)
 - **Editor:** JetBrains & VS Code (Vesper + Mono Lisa)
-- [cite_start]**Languages:** English (Working Proficiency), Japanese (JLPT N3 in progress)[cite: 30].
+- **Languages:** English (Working Proficiency).
 
 ---
 
